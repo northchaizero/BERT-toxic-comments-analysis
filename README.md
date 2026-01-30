@@ -8,6 +8,7 @@ BERT (Bidirectional Encoder Representations from Transformers) — это язы
 ## Данные
 
 `toxic_comments.csv`  содержит ~160к комментариев и разметку токсичности в столбце toxic.
+(Подгружаю с api Яндекса в тетрадке, т.к. файл слишком большой для GitHub)
 
 ## Подходы
 
